@@ -1,4 +1,4 @@
-# react-assessment
+# node-assessment-proj
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/my_proj_111/react-assessment.git
+git remote add origin https://gitlab.com/my_proj_111/node-assessment-proj.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/my_proj_111/react-assessment/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/my_proj_111/node-assessment-proj/-/settings/integrations)
 
 ## Collaborate with your team
 
